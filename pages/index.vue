@@ -5,7 +5,7 @@
   <v-col align="center">
   <v-avatar
   color="#000000"
-  size="45">
+  size="40">
   <img
         src="/v.png"
         alt="Vuetify.js"
